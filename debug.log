@@ -1,0 +1,4 @@
+[1003/221852.215:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dopig\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[1003/221922.367:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dopig\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[1003/221948.211:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dopig\Application\58.0.3029.81\chrome.dll: The specified module could not be found. (0x7E)
+[1003/222014.195:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
